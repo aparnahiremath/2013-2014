@@ -5,5 +5,5 @@ void initializeRobot()
 
 void karansFunction()
 {
-	return;
+	return true;
 }
